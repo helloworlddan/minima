@@ -65,24 +65,21 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "foreground": "#FF709E",
-        "fontStyle": "italic"
+        "foreground": "#FF709E"
       }
     },
     {
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#5C588A",
-        "fontStyle": "italic"
+        "foreground": "#8b8b8b",
       }
     },
     {
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#5C588A",
-        "fontStyle": "italic"
+        "foreground": "#8b8b8b"
       }
     },
     {
@@ -725,16 +722,14 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "foreground": "#7DA7FF",
-        "fontStyle": "normal"
+        "foreground": "#7DA7FF"
       }
     },
     {
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "foreground": "#FFDB7F",
-        "fontStyle": "normal"
+        "foreground": "#FFDB7F"
       }
     },
     {
